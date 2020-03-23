@@ -1,2 +1,6 @@
 # hello-world
-Just another Repository
+
+Hi Everyone, I am trying to see how the branching concept works in GitHub
+
+Thanks
+Rajan
